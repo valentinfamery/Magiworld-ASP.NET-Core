@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("magiworld_asp_net_backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ad37d36e3117f2b4ce75af4ded4450c17532c330")]
 [assembly: System.Reflection.AssemblyProductAttribute("magiworld_asp_net_backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("magiworld_asp_net_backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
