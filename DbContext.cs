@@ -25,7 +25,7 @@ public class GamePartContext : DbContext
 public class GamePart{
 
   public int GamePartId { get; set; }
-  public string playerVictorious { get; set; }
+  public string? playerVictorious { get; set; }
 }
 
 
