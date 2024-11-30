@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/magiworld_asp_net_backend.props" />
-</Project>
